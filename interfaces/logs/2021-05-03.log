@@ -1,0 +1,33 @@
+2021-05-03 19:56:55 Config [INFO] 你的value值为：localhost
+2021-05-03 19:56:55 Config [INFO] 你的value值为：root
+2021-05-03 19:56:55 Config [INFO] 你的value值为：
+2021-05-03 19:56:55 Config [INFO] 你的value值为：dai
+2021-05-03 19:56:55 Config [INFO] 你的value值为：3306
+2021-05-03 19:56:55 Config [INFO] 你的value值为：localhost
+2021-05-03 19:56:55 Config [INFO] 你的value值为：8080
+2021-05-03 19:56:55 Config [INFO] 你的value值为：recruit.students
+2021-05-03 19:56:55 Config [INFO] 你的value值为：6EFDC6AD8840C0E2EE5CB220B2D49296
+2021-05-03 19:56:55 TestEdu [INFO] (10000, 1, 'admin', '660B8D2D5359FF6F94F8D3345698F88C', datetime.datetime(2021, 5, 3, 19, 53, 50), 810, None, '1', '1')
+2021-05-03 19:56:55 TestEdu [INFO] <Response [200]>
+2021-05-03 19:57:18 Config [INFO] 你的value值为：localhost
+2021-05-03 19:57:18 Config [INFO] 你的value值为：root
+2021-05-03 19:57:18 Config [INFO] 你的value值为：
+2021-05-03 19:57:18 Config [INFO] 你的value值为：dai
+2021-05-03 19:57:18 Config [INFO] 你的value值为：3306
+2021-05-03 19:57:18 Config [INFO] 你的value值为：localhost
+2021-05-03 19:57:18 Config [INFO] 你的value值为：8080
+2021-05-03 19:57:18 Config [INFO] 你的value值为：recruit.students
+2021-05-03 19:57:18 Config [INFO] 你的value值为：6EFDC6AD8840C0E2EE5CB220B2D49296
+2021-05-03 19:57:18 TestEdu [INFO] (10000, 1, 'admin', '660B8D2D5359FF6F94F8D3345698F88C', datetime.datetime(2021, 5, 3, 19, 56, 56), 811, None, '1', '1')
+2021-05-03 19:57:18 TestEdu [INFO] <Response [200]>
+2021-05-03 20:01:31 Config [INFO] 你的value值为：localhost
+2021-05-03 20:01:31 Config [INFO] 你的value值为：root
+2021-05-03 20:01:31 Config [INFO] 你的value值为：
+2021-05-03 20:01:31 Config [INFO] 你的value值为：dai
+2021-05-03 20:01:31 Config [INFO] 你的value值为：3306
+2021-05-03 20:01:31 Config [INFO] 你的value值为：localhost
+2021-05-03 20:01:31 Config [INFO] 你的value值为：8080
+2021-05-03 20:01:31 Config [INFO] 你的value值为：recruit.students
+2021-05-03 20:01:31 Config [INFO] 你的value值为：6EFDC6AD8840C0E2EE5CB220B2D49296
+2021-05-03 20:01:31 TestEdu [INFO] (10000, 1, 'admin', '660B8D2D5359FF6F94F8D3345698F88C', datetime.datetime(2021, 5, 3, 19, 57, 19), 812, None, '1', '1')
+2021-05-03 20:01:31 TestEdu [INFO] <Response [200]>
