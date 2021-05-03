@@ -1,0 +1,125 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "interfacetest",
+    "children" : [ {
+      "name" : "test_fixture",
+      "children" : [ {
+        "name" : "test_01_fixture",
+        "uid" : "f10283cdda797424",
+        "parentUid" : "920f34b97447bcc1a4362a768782d407",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638846,
+          "stop" : 1619968638846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_fixture[张三]",
+        "uid" : "6c66c7821adec69b",
+        "parentUid" : "920f34b97447bcc1a4362a768782d407",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638848,
+          "stop" : 1619968638848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张三'" ]
+      }, {
+        "name" : "test_03_fixture[李四]",
+        "uid" : "2b0420398a119a98",
+        "parentUid" : "920f34b97447bcc1a4362a768782d407",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638851,
+          "stop" : 1619968638851,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李四'" ]
+      } ],
+      "uid" : "920f34b97447bcc1a4362a768782d407"
+    }, {
+      "name" : "test_inter",
+      "children" : [ {
+        "name" : "test_04_func",
+        "uid" : "459732f61cd545af",
+        "parentUid" : "5d93addcabb79497d020cab3da4d086c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638855,
+          "stop" : 1619968638855,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_inter[张三]",
+        "uid" : "1dce084a045f2fbc",
+        "parentUid" : "5d93addcabb79497d020cab3da4d086c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638857,
+          "stop" : 1619968638857,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张三'" ]
+      }, {
+        "name" : "test_03_inter[李四]",
+        "uid" : "a7677a92533a7151",
+        "parentUid" : "5d93addcabb79497d020cab3da4d086c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638860,
+          "stop" : 1619968638860,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李四'" ]
+      } ],
+      "uid" : "5d93addcabb79497d020cab3da4d086c"
+    }, {
+      "name" : "usermanage.test_user",
+      "children" : [ {
+        "name" : "test_01_usermanage[张三]",
+        "uid" : "57478ad38a952739",
+        "parentUid" : "7160e40dcab35d69478ade82a6db4396",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638863,
+          "stop" : 1619968638863,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'张三'" ]
+      }, {
+        "name" : "test_01_usermanage[李四]",
+        "uid" : "321cdce54af98440",
+        "parentUid" : "7160e40dcab35d69478ade82a6db4396",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619968638867,
+          "stop" : 1619968638867,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'李四'" ]
+      } ],
+      "uid" : "usermanage.test_user"
+    } ],
+    "uid" : "a3ffab493975fe4190f9dc89bbb94ad6"
+  } ]
+}

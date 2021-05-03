@@ -1,0 +1,12 @@
+-
+#  cooikes:
+#    JSESSIONID: 6EFDC6AD8840C0E2EE5CB220B2D49296
+  request:
+    url: http://localhost:8080/recruit.students/login/in
+    method: get
+    params:
+      account: admin
+      pwd: 660B8D2D5359FF6F94F8D3345698F88C
+
+
+

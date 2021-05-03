@@ -1,0 +1,109 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_01_fixture",
+    "uid" : "f10283cdda797424",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638846,
+      "stop" : 1619968638846,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_03_fixture[张三]",
+    "uid" : "6c66c7821adec69b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638848,
+      "stop" : 1619968638848,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'张三'" ]
+  }, {
+    "name" : "test_03_fixture[李四]",
+    "uid" : "2b0420398a119a98",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638851,
+      "stop" : 1619968638851,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'李四'" ]
+  }, {
+    "name" : "test_04_func",
+    "uid" : "459732f61cd545af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638855,
+      "stop" : 1619968638855,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_03_inter[张三]",
+    "uid" : "1dce084a045f2fbc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638857,
+      "stop" : 1619968638857,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'张三'" ]
+  }, {
+    "name" : "test_03_inter[李四]",
+    "uid" : "a7677a92533a7151",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638860,
+      "stop" : 1619968638860,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'李四'" ]
+  }, {
+    "name" : "test_01_usermanage[张三]",
+    "uid" : "57478ad38a952739",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638863,
+      "stop" : 1619968638863,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'张三'" ]
+  }, {
+    "name" : "test_01_usermanage[李四]",
+    "uid" : "321cdce54af98440",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1619968638867,
+      "stop" : 1619968638867,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'李四'" ]
+  } ]
+}
